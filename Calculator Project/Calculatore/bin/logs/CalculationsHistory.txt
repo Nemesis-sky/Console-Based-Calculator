@@ -1,0 +1,1 @@
+Inputs given is 1 and 1for the operation addition and the result is 2
